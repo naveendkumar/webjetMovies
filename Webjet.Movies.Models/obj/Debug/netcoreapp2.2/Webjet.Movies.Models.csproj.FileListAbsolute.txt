@@ -1,0 +1,12 @@
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\bin\Debug\netcoreapp2.2\Webjet.Movies.Models.deps.json
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\bin\Debug\netcoreapp2.2\Webjet.Movies.Models.dll
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\bin\Debug\netcoreapp2.2\Webjet.Movies.Models.pdb
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\bin\Debug\netcoreapp2.2\Webjet.Movies.Common.dll
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\bin\Debug\netcoreapp2.2\Webjet.Movies.Common.pdb
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\obj\Debug\netcoreapp2.2\Webjet.Movies.Models.csprojAssemblyReference.cache
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\obj\Debug\netcoreapp2.2\Webjet.Movies.Models.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\obj\Debug\netcoreapp2.2\Webjet.Movies.Models.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\obj\Debug\netcoreapp2.2\Webjet.Movies.Models.AssemblyInfo.cs
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\obj\Debug\netcoreapp2.2\Webjet.Movies.Models.csproj.CopyComplete
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\obj\Debug\netcoreapp2.2\Webjet.Movies.Models.dll
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.Movies.Models\obj\Debug\netcoreapp2.2\Webjet.Movies.Models.pdb

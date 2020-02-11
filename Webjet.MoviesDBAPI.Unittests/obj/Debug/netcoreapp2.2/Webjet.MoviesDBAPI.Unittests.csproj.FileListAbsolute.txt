@@ -1,0 +1,6 @@
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.MoviesDBAPI.Unittests\bin\Debug\netcoreapp2.2\Webjet.MoviesDBAPI.Unittests.deps.json
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.MoviesDBAPI.Unittests\bin\Debug\netcoreapp2.2\Webjet.MoviesDBAPI.Unittests.dll
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.MoviesDBAPI.Unittests\obj\Debug\netcoreapp2.2\Webjet.MoviesDBAPI.Unittests.csprojAssemblyReference.cache
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.MoviesDBAPI.Unittests\obj\Debug\netcoreapp2.2\Webjet.MoviesDBAPI.Unittests.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.MoviesDBAPI.Unittests\obj\Debug\netcoreapp2.2\Webjet.MoviesDBAPI.Unittests.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\Webjet.MoviesDBAPI.Unittests\obj\Debug\netcoreapp2.2\Webjet.MoviesDBAPI.Unittests.AssemblyInfo.cs

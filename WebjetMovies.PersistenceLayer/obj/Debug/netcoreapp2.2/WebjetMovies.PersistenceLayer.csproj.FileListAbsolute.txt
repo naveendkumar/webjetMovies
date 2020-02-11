@@ -1,0 +1,13 @@
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\bin\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.deps.json
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\bin\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.dll
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\bin\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.pdb
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.Workspaces.pdb
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\bin\Debug\netcoreapp2.2\Microsoft.CodeAnalysis.Workspaces.xml
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\obj\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.csprojAssemblyReference.cache
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\obj\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\obj\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\obj\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.AssemblyInfo.cs
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\obj\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.csproj.CopyComplete
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\obj\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.dll
+C:\Users\navee\source\repos\Webjet.MoviesDBAPI\WebjetMovies.PersistenceLayer\obj\Debug\netcoreapp2.2\WebjetMovies.PersistenceLayer.pdb

@@ -1,0 +1,43 @@
+﻿<div class="row">
+    <div class="col-md-6">
+        <div ng-show="loading">
+            <div>
+                <div class="loader"></div>
+            </div>
+        </div>
+        <div ng-hide="loading">
+            <div class="thumbnail" ng-class="{'cheap-movie': movie.isCheapMovie}" ng-show="movie">
+                <img alt="" ng-src="{{movie.poster}}" data-holder-rendered="true" style="height: 400px; width: 100%; display: block;">
+                <div class="caption">
+                    <h3>{{movie.title}}</h3>
+                    <p>Year: {{movie.year}}</p>
+                    <p>Rated: {{movie.rated}}</p>
+                    <p>Released: {{movie.released}}</p>
+                    <p>Runtime: {{movie.runtime}}</p>
+                    <p>Genre: {{movie.genre}}</p>
+                    <p>Director: {{movie.director}}</p>
+                    <p>Writer: {{movie.writer}}</p>
+                    <p>Actors: {{movie.actors}}</p>
+                    <p>Plot: {{movie.plot}}</p>
+                    <p>Language: {{movie.language}}</p>
+                    <p>Country: {{movie.country}}</p>
+                    <p>Awards: {{movie.awards}}</p>
+                    <p>Metascore: {{movie.metascore}}</p>
+                    <p>Rating: {{movie.rating}}</p>
+                    <p>Votes: {{movie.votes}}</p>
+                    <p>Type: {{movie.type}}</p>
+                    <p>Price: {{movie.price | currency}}</p>
+                    <div class="badge badge-warning" ng-if=movie.isLoadFromCache>Service currently not available, please try again</div>
+                </div>
+            </div>
+            <div ng-hide="movie">
+                Service not Available, please try again!
+            </div>
+            <p>
+                <a class="btn btn-primary" role="button" ng-click="goBack()">Go Back</a>
+            </p>
+        </div>
+        
+        
+    </div>
+</div>

@@ -1,0 +1,40 @@
+﻿<div class="con">
+    <div ng-show="loading">
+        <div>
+            <div class="loader"></div>
+        </div>
+        <b>Loading..Entertainment</b>
+    </div>
+    
+    <div ng-hide="loading">
+        <b>Note: -</b> Movie with best ticket price are rounded by black bordor.
+        <div name="movies-list">
+            <div ng-repeat="(title, moveData) in movies" heading="{{date}}">
+                <div class="row" style="margin-top: 10px;">
+                    <div class="col-md-2">
+                        <div><h4>{{title}}</h4></div>
+                    </div>
+                    <div class="col-md-10">
+                        <div class="col-md-6" ng-repeat="(source, movie) in moveData" ng-if="movie.title">
+                            <div class="thumbnail" ng-class="{'cheap-movie': movie.isCheapMovie}">
+                                <img alt="" ng-src="{{movie.poster}}" data-holder-rendered="true" style="height: 400px; width: 100%; display: block;">
+                                <div class="caption">
+                                    <h3>{{movie.title}}</h3>
+                                    <p>Type: {{movie.type}}</p>
+                                    <p>Year: {{movie.year}}</p>
+                                    <p ng-if="movie.price > 0">Price: {{movie.price | currency}}</p>
+                                    <p ng-if="movie.price == 0">Price: N/A</p>
+                                    <p ng-if="movie.source == 1">Source: Cinema World</p>
+                                    <p ng-if="movie.source == 2">Source: Film World</p>
+                                    <p>
+                                        <a class="btn btn-primary" role="button" ng-click="loadMovieInfo(movie.id, movie.source)">Movie Info</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
